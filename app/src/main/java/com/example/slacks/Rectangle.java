@@ -1,4 +1,4 @@
 package com.example.slacks;
 
-public class Rectangle {
+public class Rectangle extends Shape {
 }
